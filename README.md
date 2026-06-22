@@ -2,7 +2,11 @@
 
 By the way, this is my first project. Please "criticize" me if you have suggestions. :)
 
-![C1 - Relax](Reference_Images/c1.jpg)
+<p align="center">
+  <img src="Reference_Images/c1.jpg" width="700">
+  <br>
+  <em>Figure 1: Initial quadruped robot design.</em>
+</p>
 
 I just want to note that some of the 3D components I have used to make my projects actually came from this creator, (https://www.printables.com/model/272529-spider-robotquad-robot-quadruped-sg90-by-regishsu/files#preview.GQXLs). However, the main body part didn't fit my SG90 micro-servos' size, I recreated it in Autodesk Fusion 360. If you want to view this body component *(.stl)*, just navigate to the **3D Models (Fusion)** folder that I created. 
 
