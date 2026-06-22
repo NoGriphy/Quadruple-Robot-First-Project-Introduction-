@@ -15,7 +15,7 @@ One more thing is that I could use ESP-32 for this project, but I was considerin
 
 ---
 
-# ( Physical tools that I used for this project: Quadruple  )
+# ( Physical tools that I used for this project: Quadruple Robot )
 - Microcontroller (Standard/Simple Arduino)
 - 12 Micro-servos (SG90)
 - PCA9685 driver 16-pin
