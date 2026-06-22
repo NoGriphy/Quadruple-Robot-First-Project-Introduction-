@@ -39,6 +39,7 @@ Here is the body base that I created in Fusion:
   <em>Body Base Design (NO MESH)</em>
 </p>
 
+
 <p align="center">
   <img src="Reference_Images/Main_Body_Fusion2_Mesh.png" width="400">
   <br>
@@ -46,7 +47,7 @@ Here is the body base that I created in Fusion:
 </p>
 
 
-# ( This is what it looks like when each part is attached with SG90 micro-servo )
+This is what it looks like when each part is attached with SG90 micro-servos. 
 
 <p align="center">
   <img src="Reference_Images/Leg_Component.jpg" width="400">
