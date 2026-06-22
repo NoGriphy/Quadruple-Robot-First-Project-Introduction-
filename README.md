@@ -3,7 +3,7 @@
 By the way, this is my first project. Please "criticize" me if you have suggestions. :)
 
 <p align="center">
-  <img src="Reference_Images/c1.jpg" width="700">
+  <img src="Reference_Images/c1.jpg" width="400">
   <br>
   <em>Figure 1: Initial quadruped robot design.</em>
 </p>
@@ -61,6 +61,8 @@ I repeated the same process for each joint on the quadruple robot, and here is w
 
 
 ( 2 )
+
+
 
 
 
