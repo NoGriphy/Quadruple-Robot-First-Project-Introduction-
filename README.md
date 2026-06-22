@@ -2,6 +2,8 @@
 
 By the way, this is my first project. Please "criticize" me if you have suggestions. :)
 
+![C1 - Relax](Reference_Images/c1.jpg)
+
 I just want to note that some of the 3D components I have used to make my projects actually came from this creator, (https://www.printables.com/model/272529-spider-robotquad-robot-quadruped-sg90-by-regishsu/files#preview.GQXLs). However, the main body part didn't fit my SG90 micro-servos' size, I recreated it in Autodesk Fusion 360. If you want to view this body component *(.stl)*, just navigate to the **3D Models (Fusion)** folder that I created. 
 
 One more thing is that I could use ESP-32 for this project, but I was considering to finish it as soon as possible in the easiest way. 
@@ -15,10 +17,49 @@ One more thing is that I could use ESP-32 for this project, but I was considerin
 - Jumper wires
 - 5V power supply
 - 9mm screws
+- 3D printer (I'm using Creality)
 
 # ( Digital tools )
 - Arduino IDE (C++)
 - ROS2 (Robot Operation System - Python)
 
 ---
+
+# ( Pre-design on Autodesk Fusion )
+Here is the body base that I created in Fusion: 
+
+( NO MESH )
+![Body Base Design (No Mesh)](Reference_Images/Main_Body_Fusion1.png)
+
+( WITH MESH )
+![Body Base Design (With Mesh)](Reference_Images/Main_Body_Fusion2_Mesh.png)
+
+
+# ( This is what it looks like when each part is attached with SG90 micro-servo )
+
+( LEG COMPONENTS )
+![Leg Components](Reference_Images/Leg_Component.jpg)
+
+( MAIN BODY )
+![Body Base](Reference_Images/Main_Body.jpg)
+
+---
+
+( 1 )
+Firstly, I printed all the parts that I need for this project, which are the legs and body. Then, I use screw four SG90 micro-servos onto the body component for the legs. Making sure to stabilize them with 9mm screws, otherwise they would wobble when you test them with code. 
+
+![Main Body (Base)](Reference_Images/Main_Body.jpg)
+
+Additionally, I calibrated the angles of the micro-servos so the servo horns (or shafts) on each servo won't collide with the body part. 
+
+I repeated the same process for each joint on the quadruple robot, and here is what it ends up... 
+
+
+
+( 2 )
+
+
+
+
+
 
