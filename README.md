@@ -3,7 +3,7 @@
 By the way, this is my first project. Please "criticize" me if you have suggestions. :)
 
 <p align="center">
-  <img src="Reference_Images/c1.jpg" width="300">
+  <img src="Reference_Images/c1.jpg" width="220">
   <br>
   <em>POV: Debugging takes a lot of time...</em>
 </p>
@@ -48,18 +48,28 @@ Here is the body base that I created in Fusion:
 
 # ( This is what it looks like when each part is attached with SG90 micro-servo )
 
-( LEG COMPONENTS )
-![Leg Components](Reference_Images/Leg_Component.jpg)
+<p align="center">
+  <img src="Reference_Images/Leg_Component.jpg" width="400">
+  <br>
+  <em>Leg Components</em>
+</p>
 
-( MAIN BODY )
-![Body Base](Reference_Images/Main_Body.jpg)
+<p align="center">
+  <img src="Reference_Images/Main_Body.jpg" width="400">
+  <br>
+  <em>Main Body</em>
+</p>
 
 ---
 
 ( 1 )
 Firstly, I printed all the parts that I need for this project, which are the legs and body. Then, I use screw four SG90 micro-servos onto the body component for the legs. Making sure to stabilize them with 9mm screws, otherwise they would wobble when you test them with code. 
 
-![Main Body (Base)](Reference_Images/Main_Body.jpg)
+<p align="center">
+  <img src="Reference_Images/Main_Body.jpg" width="400">
+  <br>
+  <em>Main Body</em>
+</p>
 
 Additionally, I calibrated the angles of the micro-servos so the servo horns (or shafts) on each servo won't collide with the body part. 
 
