@@ -3,10 +3,11 @@
 By the way, this is my first project. Please "criticize" me if you have suggestions. :)
 
 <p align="center">
-  <img src="Reference_Images/c1.jpg" width="400">
+  <img src="Reference_Images/c1.jpg" width="300">
   <br>
-  <em>Figure 1: Initial quadruped robot design.</em>
+  <em>POV: Debugging takes a lot of time...</em>
 </p>
+
 
 I just want to note that some of the 3D components I have used to make my projects actually came from this creator, (https://www.printables.com/model/272529-spider-robotquad-robot-quadruped-sg90-by-regishsu/files#preview.GQXLs). However, the main body part didn't fit my SG90 micro-servos' size, I recreated it in Autodesk Fusion 360. If you want to view this body component *(.stl)*, just navigate to the **3D Models (Fusion)** folder that I created. 
 
@@ -32,11 +33,17 @@ One more thing is that I could use ESP-32 for this project, but I was considerin
 # ( Pre-design on Autodesk Fusion )
 Here is the body base that I created in Fusion: 
 
-( NO MESH )
-![Body Base Design (No Mesh)](Reference_Images/Main_Body_Fusion1.png)
+<p align="center">
+  <img src="Reference_Images/Main_Body_Fusion1.png" width="400">
+  <br>
+  <em>Body Base Design (NO MESH)</em>
+</p>
 
-( WITH MESH )
-![Body Base Design (With Mesh)](Reference_Images/Main_Body_Fusion2_Mesh.png)
+<p align="center">
+  <img src="Reference_Images/Main_Body_Fusion2_Mesh.png" width="400">
+  <br>
+  <em>Body Base Design (WITH MESH)</em>
+</p>
 
 
 # ( This is what it looks like when each part is attached with SG90 micro-servo )
