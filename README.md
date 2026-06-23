@@ -57,7 +57,7 @@ This is what it looks like when each part is attached with SG90 micro-servos.
 
 After attaching the "thigh" with the foot: 
 <p align="center">
-  <img src="Reference_Images/Composed_Leg_Component.jpg" width="400">
+  <img src="Reference_Images/Composed_Leg_Component.jpg" width="200">
   <br>
   <em>Leg Component With Knee</em>
 </p>
