@@ -93,7 +93,7 @@ I repeated the same process for each joint on the quadruple robot, and here is w
 
 ## --- ( OVERVIEW FOR QUADRUPLE ROBOT ) --- 
 <p align="center">
-  <img src="Reference_Images/Overall_Qaudruple_Robot_View" width="500">
+  <img src="Reference_Images/Overall_Qaudruple_Robot_View.jpg" width="500">
   <br>
   <em>POV: Looks messy with all the wires spreading around.</em>
 </p>
