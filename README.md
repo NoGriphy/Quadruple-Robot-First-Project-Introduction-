@@ -15,7 +15,7 @@ One more thing is that I could use ESP-32 for this project, but I was considerin
 
 ---
 
-# ( Physical tools that I used for this project: Quadruple Robot )
+## ( Physical tools that I used for this project: Quadruple Robot )
 - Microcontroller (Standard/Simple Arduino)
 - 12 Micro-servos (SG90)
 - PCA9685 driver 16-pin
@@ -24,13 +24,13 @@ One more thing is that I could use ESP-32 for this project, but I was considerin
 - 9mm screws
 - 3D printer (I'm using Creality)
 
-# ( Digital tools )
+## ( Digital tools )
 - Arduino IDE (C++)
 - ROS2 (Robot Operation System - Python)
 
 ---
 
-# ( Pre-design on Autodesk Fusion )
+## ( Pre-design on Autodesk Fusion )
 Here is the body base that I created in Fusion: 
 
 <p align="center">
@@ -53,6 +53,13 @@ This is what it looks like when each part is attached with SG90 micro-servos.
   <img src="Reference_Images/Leg_Component.jpg" width="400">
   <br>
   <em>Leg Components</em>
+</p>
+
+After attaching the "thigh" with the foot: 
+<p align="center">
+  <img src="Reference_Images/Composed_Leg_Component.jpg" width="400">
+  <br>
+  <em>Leg Component With Knee</em>
 </p>
 
 <p align="center">
