@@ -8,7 +8,7 @@ By the way, this is my first project. Please "criticize" me if you have any sugg
   <em>POV: Debugging takes a lot of time...</em>
 </p>
 
-This project is for other beginners to learn the over process of "building" a quadruple robot. 
+This project is for other beginners to learn the overall process of "building" a quadruple robot. 
 
 I just want to note that some of the 3D components I have used to make my projects actually came from this creator, (https://www.printables.com/model/272529-spider-robotquad-robot-quadruped-sg90-by-regishsu/files#preview.GQXLs). However, the main body part didn't fit my SG90 micro-servos' size, so I recreated it in Autodesk Fusion 360. If you want to view this body component *(.stl)*, just navigate to the **3D Models (Fusion)** folder that I created. 
 
